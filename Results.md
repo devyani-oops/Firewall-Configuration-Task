@@ -37,7 +37,7 @@ Regular Audits: Periodically review firewall rules
 
 Documentation: Maintain records of all changes
 
-![image alt]()
+![image alt](https://github.com/devyani-oops/Firewall-Configuration-Task/blob/5d2225df1a6fd9065b6e2c91ba51a4fae3aa3d71/Screenshot%202025-10-25%20105029.png)
 ![image alt]()
 ![image alt]()
 ![image alt]()
